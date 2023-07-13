@@ -5,15 +5,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub followers][GitHub followers-shield]][GitHub followers-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url]
-[![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url]
-[![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url]
 [![GitHub repo][GitHub repo-shield]][GitHub repo-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
+<!-- [![Forks][forks-shield]][forks-url] -->
+<!-- [![Issues][issues-shield]][issues-url] -->
+<!-- [![MIT License][license-shield]][license-url] -->
+<!-- [![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url] -->
+<!-- [![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url] -->
+<!-- [![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url] -->
 
 - 👋 Hi, I’m @ Erik Mesen
 - 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h1>Work</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./images/giphy.gif" alt="ScreenShot" width="400" height="100">
+    <img src="./images/giphy.gif" alt="Work In Progress" width="400" height="100">
   </a>
 </div>
 
@@ -34,42 +34,36 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#bio">About The Project</a>
+    <li><a href="#bio">Bio</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#français">Français</a></li> 
+        <li><a href="#english">English</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>  
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#skills">Skills</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
+
 # Bio
 
-### fr
+### Français
 Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer les miens pour en comprendre le fonctionnement.
 
 Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine, outre la passion qui m’anime, c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
 
 Je suis également très attiré par la cybersécurité sous ces différents aspect comme l'OSINT ou le pentest ainsi que par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
 
-### en
+### English
 I am passionate about computers and self-taught in the field since my childhood. I am of this generation who knew the first computers and grew up with them, I spent hours dismantling, reassembling and configuring mine to understand how it worked.
 
 What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
 
 I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+# Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+<p> </p>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -85,11 +79,30 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
 
 
+## Languages
+* HTML
+* CSS
+* Scss
+* JavaScript
+
+## Framework
+* React
+* Node.js
+* Express.js
+
+## Base de données
+* MongoDb
+* MySQL
+
+## Serveur
+* Apache
+
 <!-- CONTACT -->
-## Contact
+# Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 
-Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 
+<!-- Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42) -->
+[![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,10 +110,10 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: ./images/screenshot.png
-
-[GitHub repo-shield]: https://img.shields.io/github/repositories/Erik-42
-[GitHub repo-url]: https://github.com/repositories/Erik-42/
-
+[Github Badge-shield]: https://img.shields.io/badge/Github-Erik--42-155?style=for-the-badge&logo=github
+[Github Badge-url]: https://github.com/Erik-42
+[GitHub repo-shield]: https://img.shields.io/badge/Repositories-22-blue
+[GitHub repo-url]: https://github.com/Erik-42?tab=repositories
 [GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
 [GitHub repo file count (file type)-url]:  https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
 [GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
@@ -113,8 +126,8 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 [contributors-url]: https://github.com/Erik-42/openclassrooms_projet_8/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_8
 [forks-url]: https://github.com/Erik-42/openclassrooms_projet_8/forks
-[stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_8
-[stars-url]: https://github.com/Erik-42/openclassrooms_projet_8/stargazers
+[stars-shield]: https://img.shields.io/github/stars/Erik-42
+[stars-url]: https://github.com/Erik-42?tab=stars
 [issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_8
 [issues-url]: https://github.com/Erik-42/openclassrooms_projet_8/issues
 [license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_8
@@ -129,7 +142,7 @@ Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 [JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 [Node-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Node-url]: https://nodejs.org/
-[Ex^ress-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Express-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Express-url]: http://expressjs.com/
 [MongoDB-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [MongoDB-url]: https://www.mongodb.com/
