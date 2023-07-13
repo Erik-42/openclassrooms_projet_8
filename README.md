@@ -1,34 +1,33 @@
 <a name="readme-top"></a>
+<!---
+Erik-42/Erik-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
+[![GitHub followers][GitHub followers-shield]][GitHub followers-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![GitHub repo file count (file type)][GitHub repo file count (file type)-shield]][GitHub repo file count (file type)-url]
+[![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url]
+[![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url]
+[![GitHub repo][GitHub repo-shield]][GitHub repo-url]
 
-## openclassrooms_projet_8
-
+- 👋 Hi, I’m @ Erik Mesen
+- 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
+- 🌱 I’m currently learning at OpenClassRoom.
+- 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
+- 📫 How to reach me  <a href="#contact">Contact</a>
+  
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Erik-42/openclassrooms_projet_8.git">
-    <img src="./frontend/src/images/Logo.webp" alt="Logo Mon Vieux Grimoire" width="400" height="80">
+  <h1>Work</h1>
+  <a href="https://github.com/Erik-42">
+    <img src="./images/giphy.gif" alt="ScreenShot" width="400" height="100">
   </a>
-
-<h3 align="center">Portfolio Developpeur intégrateur web</h3>
-
-  <p align="center">
-    Créez et publiez votre portfolio de développeur
-    <br />
-    <a href="https://github.com/Erik-42/openclassrooms_projet_8.git"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://erik-42.github.io/openclassrooms_projet_8/">View Demo</a>
-    ·
-    <a href="https://github.com/Erik-42/openclassrooms_projet_8/issues/1">Report Bug</a>
-    ·
-    <a href="https://github.com/Erik-42/openclassrooms_projet_8/issues/2">Request Feature</a>
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -36,7 +35,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#bio">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -54,126 +53,42 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project 
+# Bio
 
-Développez le back-end d'un site de notation de livres au nom d'une chaîne de librairies “Le Vieux Grimoire” 
+### fr
+Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer les miens pour en comprendre le fonctionnement.
 
-## Built With
+Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine, outre la passion qui m’anime, c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
 
-<!-- * [![Node][Nodejs.org]][Node-url]
-* [![Express][Expressjs.com]][Express-url]
-* [![JavaScript][Ecma-international.org]][JavaScript-url]
-* [![MongoDB][Mongodb.com]][MongoDB-url] -->
-- Node.js
-- Express
-- JavaScript
-- MongoDB
+Je suis également très attiré par la cybersécurité sous ces différents aspect comme l'OSINT ou le pentest ainsi que par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### en
+I am passionate about computers and self-taught in the field since my childhood. I am of this generation who knew the first computers and grew up with them, I spent hours dismantling, reassembling and configuring mine to understand how it worked.
 
-<!-- GETTING STARTED -->
-## Getting Started
+What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
 
-### Prerequisites
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
 
-This is an example of how to list things you need to use the software and how to install them.
-
-* node.js [Node-url]
-* express.js [Express-url]
-* mongodb [MongoDB-url]
- 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-  ou
-
-* yarn
-  ```sh
-  yarn global add yarn@latest
-  ```
-
-## Installation:
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Erik-42/openclassrooms_projet_8.git
-   ```
-2. Install `Npm` packages
-   ```sh
-   npm install
-
-ou
-
-2. Install `Yarn` packages
-   ```sh
-   yarn add
-   ```
-
-3. Install `Nodemon`
-   ```sh
-   yarn add nodemon --save
-   ```
-
-4. Lancement backend Node
-   ```sh
-   nodemon server
-   ```
-
-5. Lancement frontend `Npm`
-   ```sh
-   npm start
-   ```
-ou
-
-5. Lancement frontend `Yarn`
-   ```sh
-   yarn start
-   ```
-   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Testez le projet:
-
-https://erik-42.github.io/openclassrooms_projet_8/frontend/public/
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-Formation OpenClassRoom developpeur intégrateur web
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Erik-42 - [Erik_42](https://discord.com/)
-
-Project Link: [https://erik-42.github.io/openclassrooms_projet_8/](https://erik-42.github.io/openclassrooms_projet_8/)
+Profil Link: [https://github.com/Erik-42](https://github.com/Erik-42)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -181,20 +96,40 @@ Project Link: [https://erik-42.github.io/openclassrooms_projet_8/](https://erik-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: ./images/screenshot.png
+
+[GitHub repo-shield]: https://img.shields.io/github/repositories/Erik-42
+[GitHub repo-url]: https://github.com/repositories/Erik-42/
+
+[GitHub repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassrooms_projet_8
+[GitHub repo file count (file type)-url]:  https://github.com/directory-file-count/Erik-42/openclassrooms_projet_8
+[GitHub followers-shield]: https://img.shields.io/github/followers/Erik-42
+[GitHub followers-url]: https://github.com/followers/Erik-42
+[GitHub all releases-shield]: https://img.shields.io/github/downloads/Erik-42/openclassrooms_projet_8/total
+[GitHub all releases-url]: https://github.com/Erik-42/openclassrooms_projet_8/releases
+[GitHub repo size-shield]: https://img.shields.io/github/repo-size/Erik-42/openclassrooms_projet_8
+[GitHub repo size-url]: https://github.com/Erik-42/openclassrooms_projet_8
 [contributors-shield]: https://img.shields.io/github/contributors/Erik-42/openclassrooms_projet_8
 [contributors-url]: https://github.com/Erik-42/openclassrooms_projet_8/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Erik-42/openclassrooms_projet_8
-[forks-url]: https://github.com/Erik-42/openclassrooms_projet_8/network/members
+[forks-url]: https://github.com/Erik-42/openclassrooms_projet_8/forks
 [stars-shield]: https://img.shields.io/github/stars/Erik-42/openclassrooms_projet_8
 [stars-url]: https://github.com/Erik-42/openclassrooms_projet_8/stargazers
 [issues-shield]: https://img.shields.io/github/issues-raw/Erik-42/openclassrooms_projet_8
 [issues-url]: https://github.com/Erik-42/openclassrooms_projet_8/issues
 [license-shield]: https://img.shields.io/github/license/Erik-42/openclassrooms_projet_8
-[license-url]: https://github.com/Erik-42/openclassrooms_projet_8/blob/master/LICENSE.txt
+[license-url]: https://github.com/Erik-42/openclassrooms_projet_7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/erik-mesen-3469b71a1/
-[product-screenshot]: ./frontend/src/images/screenshot.png
-[Node-url]: https://nodejs.org/
-[Express-url]: http://expressjs.com/
-[MongoDB-url]: https://www.mongodb.com/
+[linkedin-url]: https://www.linkedin.com/in/erik-mesen/
+[HTML-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[HTML-url]: https://html.spec.whatwg.org/
+[CSS-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[CSS-url]: https://www.w3.org/TR/CSS/#css
+[JavaScript-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[Node-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Node-url]: https://nodejs.org/
+[Ex^ress-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Express-url]: http://expressjs.com/
+[MongoDB-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[MongoDB-url]: https://www.mongodb.com/
