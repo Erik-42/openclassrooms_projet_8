@@ -106,6 +106,14 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+Malt
+
+Fiverr
+
+erik.mesen@basillecorp.dev
+
+basillecorp.dev
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->

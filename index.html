@@ -21,18 +21,27 @@
 
 <body>
     <header class="header">
-        <div class="header-cadre">
-            <div class="header-cadre-circlePhoto">
-                <img src="./assets/images/photos/Photo-Mesen.jpg" alt="Erik Mesen">
-            </div>
-            <div class="header-cadre-coord">
-                <H1 class="header-titre">Erik Mesen</H1>
-                <!-- <p>7, rue des ruisseaux</p> -->
-                <!-- <p>Ger, 50850</p> -->
-                <p>France</p>
-                <h3>+33 7 68 25 25 09</h3>
-                <h3>erik.mesen@basillecorp.dev</h3>
-            </div>
+
+        <nav class="header-navbar">
+            <a class="header-navbar-accueil" href="#">Accueil</a>
+            <a class="header-navbar-services" href="#">Services</a>
+            <a class="header-navbar-realisations" href="#">Réalisations</a>
+            <a class="header-navbar-about" href="#">About</a>
+        </nav>
+        <div class="header-reseaux">
+            <a href="https://www.linkedin.com/in/erik-mesen/" class="header-reseaux-logo">
+                <img class="header-reseaux-linkedinLogo" src="./assets/logos/logo_reseau/linkedIn-logo.png"
+                    alt="Logo Linked-In">
+            </a>
+            <a href="https://github.com/Erik-42" class="header-reseaux-logo">
+                <img class="header-reseaux-githubLogo" src="./assets/logos/logo_reseau/github-logo.png"
+                    alt="Logo Github">
+            </a>
+            <a href="mailto:mesen.erik@gmail.com" class="header-reseaux-logo">
+                <img class="header-reseaux-contact" src="./assets/logos/logo_divers/purple-mail.webp"
+                    alt="Logo contact">
+
+            </a>
         </div>
         <div class="header-quali">
             <p>Créatif, Autonome, Curieux</p>
@@ -46,108 +55,319 @@
                 techniques. J’ai une bonne maîtrise des outils de développement et je suis en constante recherche
                 d’apprentissage.</p>
         </div>
-        <nav class="header-nav-bar">
-            <a class="header-nav-bar-accueil" href="#">Accueil</a>
-            <a class="header-nav-bar-about" href="#">About</a>
-            <a class="header-nav-bar-services" href="#">Services</a>
-            <a class="header-nav-bar-realisations" href="#">Réalisations</a>
-        </nav>
-        <div class="header-reseaux">
-            <a href="#linkedin" class="header-reseaux-logo linkedin">
-                <img src="./assets/logos/logo_reseau/linkedIn-logo.png" alt="Logo Linked-In">
-            </a>
-            <a href="#github" class="header-reseaux-logo github">
-                <img src="./assets/logos/logo_reseau/github-logo.png" alt="Logo Github">
-            </a>
-            <a href="#modalContact" class="contact">Contact</a>
-        </div>
     </header>
 
     <main class="main">
-        <!-- <div class="grid-item col1"></div> -->
-        <section class="main-sidebar grid-item col1">
-            <h2>Compétences</h2>
-            <div class="main-sidebar-logo">
-                <h3>Langages</h3>
-                <ul>
-                    <li><img src="./assets/logos/logo_techno/logo-html-5-2048.png" alt="Logo HTML 5"></li>
-                    <li><img src="./assets/logos/logo_techno/css3.webp" alt="Logo CSS 3"></li>
-                    <li><img src="./assets/logos/logo_techno/javascript-icon-png-23.jpg" alt="Logo JavaScript"></li>
-                    <li><img src="./assets/logos/logo_techno/php-logo-png-transparent-svg-vector-bie-supply-1.webp"
-                            alt="Logo PHP"></li>
-                    <!-- Ajoutez d'autres logos de frameworks ici -->
-                </ul>
+        <aside class="main-sidebarCol1 grid-item">
+            <div class="main-header-cadre">
+                <div class="main-header-cadre-circlePhoto">
+                    <img src="./assets/images/photos/Photo-Mesen.jpg" alt="Erik Mesen">
+                </div>
+                <div class="main-header-cadre-coord">
+                    <H1 class="main-header-cadre-coord-titre">Erik Mesen</H1>
+                    <!-- <p>7, rue des ruisseaux</p> -->
+                    <!-- <p>Ger, 50850</p> -->
+                    <p>France</p>
+                    <h3>+33 7 68 25 25 09</h3>
+                    <h3>erik.mesen@basillecorp.dev</h3>
+                </div>
             </div>
-            <div class="main-sidebar-logo">
-                <h3>Frameworks</h3>
-                <ul>
-                    <li><img src="./assets/logos/logo_techno/React_logo_logotype_emblem.webp" alt="Logo React"></li>
-                    <li><img src="./assets/logos/logo_techno/sass_icon-512.webp" alt="Logo SCSS"></li>
-                    <li><img src="./assets/logos/logo_techno/nodejs-expressjs.webp" alt="Logo Node.js"></li>
-                    <!-- Ajoutez d'autres logos de frameworks ici -->
-                </ul>
+            <div class="main-sidebarCol1-competences">
+                <h2>Compétences</h2>
+                <div class="main-sidebarCol1-logo">
+                    <h3>Langages</h3>
+                    <ul>
+                        <li><img src="./assets/logos/logo_techno/logo-html-5-2048.png" alt="Logo HTML 5"></li>
+                        <li><img src="./assets/logos/logo_techno/css3.webp" alt="Logo CSS 3"></li>
+                        <li><img src="./assets/logos/logo_techno/javascript-icon-png-23.jpg" alt="Logo JavaScript"></li>
+                        <li><img src="./assets/logos/logo_techno/LogoSCSS.webp" alt="Logo SCSS"></li>
+                        <li><img src="./assets/logos/logo_techno/php-logo-png-transparent-svg-vector-bie-supply-1.webp"
+                                alt="Logo PHP"></li>
+                        <li><img src="./assets/logos/logo_divers/apache-logo-300x300.webp" alt="Logo Apache"></li>
+                        <li><img src="./assets/logos/logo_divers/mongodb.webp" alt="Logo MongoDB"></li>
+                    </ul>
+                </div>
+                <div class="main-sidebarCol1-logo">
+                    <h3>Frameworks</h3>
+                    <ul>
+                        <li><img src="./assets/logos/logo_techno/react-1-logo-svg-vector.webp" alt="Logo React"></li>
+                        <li><img src="./assets/logos/logo_techno/nodejs-expressjs.webp" alt="Logo Node.js"></li>
+                    </ul>
+                </div>
+                <div class="main-sidebarCol1-logo">
+                    <h3>Outils</h3>
+                    <ul>
+                        <li><img src="./assets/logos/logo_divers/joomla-logo-1.webp" alt="Logo Joomla"></li>
+                        <li><img src="./assets/logos/logo_divers/wordpress_PNG74.png" alt="Logo Wordpress"></li>
+                        <li><img src="./assets/logos/logo_tools/Jira-Emblem.png" alt="Logo Jira"></li>
+                        <li><img src="./assets/logos/logo_tools/Trello-Emblem.png" alt="Logo Trello"></li>
+                        <li><img src="./assets/logos/logo_tools/Notion_App_Logo.webp" alt="Logo Notion"></li>
+                        <li><img src="./assets/logos/logo_reseau/github-logo.png" alt="Logo Github"></li>
+                        <li><img src="./assets/logos/logo_tools/postman-logo.png" alt="Logo Postman"></li>
+                    </ul>
+                </div>
+                <div class="main-sidebarCol1-logo">
+                    <h3>Design</h3>
+                    <ul>
+                        <li><img src="./assets/logos/logo_design/lightroom-logo-0.webp" alt="Logo Ligthroom"></li>
+                        <li><img src="./assets/logos/logo_design/photoshop.webp" alt="Logo Photoshop"></li>
+                        <li><img src="./assets/logos/logo_design/inkscape-logo-1.webp" alt="Logo Inkscape"></li>
+                        <li><img src="./assets/logos/logo_design/figma-logo.webp" alt="Logo Figma"></li>
+                        <li><img src="./assets/logos/logo_design/solidworks.webp" alt="Logo Solidworks"></li>
+                    </ul>
+                </div>
             </div>
-
-            <div class="main-sidebar-logo">
-                <h3>Outils</h3>
-                <ul>
-                    <li><img src="assets/logos/logo_tools/Jira-Emblem.png" alt="Logo Jira"></li>
-                    <li><img src="assets/logos/logo_tools/Trello-Emblem.png" alt="Logo Trello"></li>
-                    <li><img src="assets/logos/logo_tools/Notion_App_Logo.webp" alt="Logo Notion"></li>
-                    <li><img src="assets/logos/logo_tools/postman-logo.png" alt="Logo Postman"></li>
-                    <!-- Ajoutez d'autres logos de logiciels ici -->
-                </ul>
+            <div class="main-sidebarCol1-ref">
+                <h2>References</h2>
+                <p><a href="https://basillecorp.dev/">Portfolio: basillecorp.dev</a></p>
+                <p><a href="https://github.com/Erik-42">Github: Erik-42</a></p>
+                <p><a href="https://www.linkedin.com/in/erik-mesen/">LinkedIn: erik-mesen</a></p>
             </div>
-            <div class="main-sidebar-logo">
-                <h3>Design</h3>
-                <ul>
-                    <li><img src="assets/logos/logo_design/figma-logo.webp" alt="Logo Figma"></li>
-                    <li><img src="assets/logos/logo_design/Adobe_Photoshop_Logo_old.webp" alt="Logo Photoshop"></li>
-                    <li><img src="assets/logos/logo_design/lightroom-logo-0.webp" alt="Logo Ligthroom"></li>
-                    <li><img src="assets/logos/logo_design/inkscape-logo-1.webp" alt="Logo Inkscape"></li>
-                    <li><img src="assets/logos/logo_design/solidworks.webp" alt="Logo Solidworks"></li>
-                    <!-- Ajoutez d'autres logos de logiciels ici -->
-                </ul>
+            <div class="main-sidebarCol1-divers">
+                <h2>Soft Skills</h2>
+                <p>Gestion de projets</p>
+                <p>Veille technologique</p>
+                <p>Travail d'équipe</p>
+                <p>Design créatif</p>
             </div>
-            <div class="main-sidebar-langues">
+            <div class="main-sidebarCol1-langues">
                 <h2>Langues</h2>
                 <p>Français: maternelle</p>
                 <p>Anglais: technique</p>
             </div>
-            <div class="main-sidebar-ref">
-                <h2>References</h2>
-                <a href="#github">Github</a>
-                <a href="#linkedin">LinkedIn</a>
-            </div>
-            <div class="main-sidebar-divers">
+            <div class="main-sidebarCol1-divers">
                 <h2>Divers</h2>
                 <p>Assemblage de PC et réseaux</p>
                 <p>Production agricole</p>
                 <p>Photographie</p>
             </div>
-        </section>
+        </aside>
 
-        <div class="grid-item col2">
-        </div>
+        <section class="corpsCol2 grid-item">
+            <h2>Formations & Diplômes</h2>
+            <div class="corpsCol2-learning">
+                <ul class="corpsCol2-learning-aweneress">
+                    <li class="corpsCol2-learning-aweneress-dateAweneress">
+                        <h4>2023</h4>
+                        <p> - Formation développeur intégrateur web RNCP NIV 6</p>
+                    </li>
+                    <li class="corpsCol2-learning-aweneress-dateAweneress">
+                        <h4>2009</h4>
+                        <p> - Brevet Professionnel de Responsable d’Exploitation Agricole</p>
+                    </li>
+                    <li class="corpsCol2-learning-aweneress-dateAweneress">
+                        <h4>2008</h4>
+                        <p> - Attestation de capacité de transport routier de marchandises</p>
+                    </li>
+                    <li class="corpsCol2-learning-aweneress-dateAweneress">
+                        <h4>2005</h4>
+                        <p> - DUT Gestion Logistique et transport</p>
+                    </li>
+                    <li class="corpsCol2-learning-aweneress-dateAweneress">
+                        <h4>1999</h4>
+                        <p> - BAC Professionnel Transport et Logistique - Mention AB</p>
+                    </li>
+                    <li class="corpsCol2-learning-aweneress-dateAweneress">
+                        <h4>1990</h4>
+                        <p> - CAP – BEP Mécanicien Véhicules Industriels</p>
+                    </li>
+                </ul>
 
-        <section class="corps grid-item col3">
-            <div class="corps-learning">
-                <h2>Formations & Diplomes</h2>
             </div>
-            <div class="corps-exp">
-                <h2>Experience Professionnelles</h2>
+            <h2 class="p-5">Projets</h2>
+            <div class="corpsCol2-project">
+                <div class="corpsCol2-project-container">
+                    <div class="corpsCol2-project-container-card">
+                        <h4>Projets 1</h4>
+                        <a href="#projets 1">Github projet 1
+                            <img src="assets/images/coverWIP.webp" alt="Projet 1">
+                        </a>
+                        <p> Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, assumenda
+                            enim reiciendis incidunt suscipit debitis ipsa eaque delectus maiores dolorum illum, ut
+                            similique? Animi facilis quis deleniti fugiat deserunt placeat?</p>
+                    </div>
+                    <div class="corpsCol2-project-container-card">
+                        <h4>Projets 2</h4>
+                        <a href="#projets 2">Github projet 2</a>
+                        <p> Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint incidunt in
+                            dolor. Provident, enim? Laborum, neque voluptate repudiandae deleniti dolores ab saepe iusto
+                            consequuntur voluptates sed voluptatem veritatis non delectus.</p>
+                    </div>
+                    <div class="corpsCol2-project-container-card">
+                        <h4>Projets 3</h4>
+                        <a href="#projets 3">Github projet 3</a>
+                        <p> Description Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga deserunt quo
+                            aliquam, mollitia recusandae harum veritatis! Eveniet dolorem facilis earum minus magnam
+                            perspiciatis qui suscipit assumenda, sunt accusantium quod aut.</p>
+                    </div>
+                </div>
+            </div>
+            <h2>Experience Professionnelles</h2>
+            <div class="corpsCol2-exPro">
+                <div class="corpsCol2-expProContainer">
+                    <div class="corpsCol2-expProContainer-arrowContainer">
+                        <div class="corpsCol2-expProContainer-arrowContainer-pointe"></div>
+                        <div class="corpsCol2-expProContainer-arrowContainer-line"></div>
+                    </div>
+                    <div class="corpsCol2-expProContainer-datePointContainer">
+                        <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                            <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+
+                            <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date">
+                                <h4>2014-2023</h4>
+                                <h4> Festival Cidre & Dragon </h4>
+                                <p> – Merville-Franceville-Plage</p>
+                                <h5> Responsable implantions, goodies, hygiène,
+                                    multimédia, membres du conseil d’administration et du bureau.</h5>
+                                <p>Création, Préparation et installation du festival, gestion d’équipes bénévoles,
+                                    Préconisation et
+                                    choix de partenaires, fournisseurs et artistes, création du site web. </p>
+                            </div>
+                        </div>
+                        <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                            <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                            <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                            <h4>2015-2016</h4>
+                            <h4> Divers mission d’intérim</h4>
+                            <p> France</p>
+                            <h5>Chauffeur routier</h5>
+
+                            <h4> Tour de France à la voile</h4>
+                            <p> Transport, sortie et mise à l’eau de zodiacs.</p>
+                            <h4> Bivouac</h4>
+                            <p> Conduite et installation d’un camion cuisine sur divers événements en France.</p>
+
+                        </div>
+                    </div>
+                    <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                        <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                        <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                        <h4>2014</h4>
+                        <h3> Jeux Equestres Mondiaux </h3>
+                        <p>Caen</p>
+                        <h4>Référent logistique</h4>
+                        <p> Création, installation et gestion des plateformes logistique des sites d’épreuves
+                            Gestion de la plateforme logistique et de son équipe sur le site principale</p>
+                    </div>
+                </div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                    <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                    <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                    <p>2011-2015</p>
+                    <h3>Haras d’Orion</h3>
+                    <p>Prêtreville </p>
+                    <h4>Dirigeant</h4>
+                    <p> Débourrage, entrainement, soins, manipulations, éducation de chevaux, entretien des
+                        pâtures et du
+                        domaine, saillies, poulinage, gestion comptable, administrative et sanitaire, gestion du
+                        personnel.</p>
+                </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>2010</p>
+                <p> Écuries Michel Hécart – La Roque Baignarde - Assistant d’élevage
+                    Soins et manipulation de chevaux, poulinières et foal, saillies et poulinage, entretien
+                    des pâtures
+                    et du domaine.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>2006-2009</p>
+                <p> TNT Express France – Le Havre -Responsable de dépôt
+                    Gestion de l’agence, définition de la politique de travail
+                    Détermination et gestion des tournées de livraisons et ramassages.
+                    Choix et suivi des fournisseurs et prestataires, encadrement et gestion du personnel.
+                </p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>2005-2006</p>
+                <p> TOTAL RN – Gonfreville l’Orcher - Gestionnaire de stocks - Projet DHC
+                    Gestion des stocks de tuyauteries préfabriquées et piping, gestion des équipes de
+                    levage.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>2004</p>
+                <p> EDF Centre de Recherche – Clamart - (Détaché par STERIA) - Logisticien
+                    Gestion des stocks de matériel informatique, suivi des SAV fournisseurs, interventions
+                    hardware.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>2001-2003</p>
+                <p> TRANSTECHNOPOLE – Plaisir - Adjoint directeur de site – Support de dépôt
+                    Gestion de la vie du site et de son personnel, mise en place, analyse et validation des
+                    indicateurs et tableaux de bord
+                    Réorganisation des superficies et de leur exploitation, développement d’outils de
+                    gestion et des
+                    projets clients.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>2001</p>
+                <p> PROJETEL.COM – Nanterre – Responsable logistique - achats
+                    Création et gestion des services : logistique et achats, encadrement des équipes
+                    Refonte intégrale et gestion du parc de véhicules pour l’ensemble du groupe, gestion des
+                    services
+                    généraux, formation du personnel du groupe.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>1999-2001</p>
+                <p> FODENO – Le Havre -Formateur logistique
+                    Enseignement de l’exploitation des transports et de la gestion de stocks classe de BAC
+                    pro
+                    Logistique et transport, classe de remise à niveau orientation magasinage, surveillant
+                    examen BEP
+                    magasinage.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>1995-1998</p>
+                <p> LEROY MERLIN – Montivilliers - Employé logistique, cariste, vendeur
+                    Contrôle d’arrivages, gestion de stocks, Préparation de commandes et services clients
+                    Préparation d’inventaire, Approvisionnement rayon, ventes.</p>
+            </div>
+            </div>
+            <div class="corpsCol2-expProContainer-datePointContainer-datePoint">
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-point"></div>
+                <div class="corpsCol2-expProContainer-datePointContainer-datePoint-date"></div>
+                <p>1992-1995</p>
+                <p> EUROWAY – Le Havre - Mécanicien poids lourds
+                    Entretien et préparation aux mines d’un parc de semi-remorques.
+                    Contrôle journalier pendant les transferts gare-ferry</p>
+            </div>
+            </div>
+            </div>
+            </div>
             </div>
         </section>
 
     </main>
-    <footer class="footer">
-
-        <img class="footer-logo" src="./assets/logos/Logo_Mesen/Logo_M 150x150.png" alt="Erik Mesen">
+    <!-- <footer class="footer">
+        <img class="footer-logo" src="./assets/logos/Logo_Mesen/Logo_M_150x150.webp" alt="Logo Erik Mesen">
         <div class="footer-legal">
-            <a href="#">Contact</a>
+            <a href="mailto:mesen.erik@gmail.com">Contact</a>
             <a href="#">Mentions Légales</a>
         </div>
-    </footer>
+    </footer> -->
 </body>
 
 </html>

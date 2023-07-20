@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true,
+    "files.autoSave": "onFocusChange",
+    "bemHelper.classNameCase": "camel"
+}
