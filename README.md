@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h1>Work</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./assets/images/giphy.gif" alt="Work In Progress" width="400" height="100">
+    <img src="./src/assets/images/wip/giphy.gif" alt="Work In Progress" width="400" height="100">
   </a>
 </div>
 
@@ -106,13 +106,14 @@ I am also very attracted by cybersecurity in its various aspects such as OSINT o
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Malt
+Malt: https://www.malt.fr/profile/erikmesen
 
-Fiverr
+Fiverr: https://fr.fiverr.com/erikmesen
 
 erik.mesen@basillecorp.dev
 
-basillecorp.dev
+https://erik-42.github.io/
+<!-- basillecorp.dev -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

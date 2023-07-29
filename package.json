@@ -1,0 +1,28 @@
+{
+  "name": "Erik-42.github.io",
+  "version": "1.0.0",
+  "description": "Création du portfolio de Erik Mesen",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "watch": "postcss build ./src/input.css -o ./dist/output.css --watch",
+    "prod": "cross-env NODE_ENV=production postcss ./src/input.css -o ./public/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.4",
+    "autoprefixer": "^10.4.14",
+    "cross-env": "^7.0.3",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "tailwindcss-aspect-ratio": "^3.0.0",
+    "tailwindcss-typography": "^3.1.0"
+  },
+  "dependencies": {
+    "postcss-cli": "^10.1.0",
+    "postcss-import": "^15.1.0"
+  }
+}
