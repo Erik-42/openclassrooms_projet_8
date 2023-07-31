@@ -30,6 +30,7 @@ const competencesLink = document.querySelector("#competencesLink");
 const toggleAsideImg = document.querySelector("#aside-btn img");
 const toggledAside = document.querySelector("#toggled-aside");
 
+
 toggleAsideBtn.addEventListener("click", toggleAside);
 competencesLink.addEventListener("click", toggleAside);
 projetsLink.addEventListener("click", toggleAside);
