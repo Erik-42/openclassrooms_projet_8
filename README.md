@@ -16,12 +16,14 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub repo size][GitHub repo size-shield]][GitHub repo size-url] -->
 <!-- [![GitHub all releases][GitHub all releases-shield]][GitHub all releases-url] -->
 
+
 - 👋 Hi, I’m @ Erik Mesen
-- 👀 I’m interested in IT in general and the development of applications. i'm also very attracted to artificial intelligence.
+- 👀 I’m interested in IT in general and the development of applications. I'm also very attracted by cyber security, OSINT and pentest but also by artificial intelligence.
 - 🌱 I’m currently learning at OpenClassRoom.
 - 💞️ I’m looking to collaborate on differeents frontend an backend projects in order to improve my skills.
 - 📫 How to reach me  <a href="#contact">Contact</a>
   
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -31,72 +33,57 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#bio">Bio</a>
+    <li>
+      <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#français">Français</a></li> 
-        <li><a href="#english">English</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#skills">Skills</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 
-# Bio
+<!-- ABOUT THE PROJECT -->
+## About The Project 
 
-### Français
-Je suis passionné d’informatique et autodidacte dans le domaine depuis ma plus tendre enfance. Je suis de cette génération qui a connus les premiers ordinateurs et grandit avec, petit je passais des heures à démonter, remonter et paramétrer les miens pour en comprendre le fonctionnement.
+Créez et publiez votre portfolio de développeur
 
-Ce qui m'a motivé aujourd’hui à me reconvertir dans ce domaine, outre la passion qui m’anime, c’est la soif de savoir, de curiosité et de création, dans le développement d'applications frontend et backend.
 
-Je suis également très attiré par la cybersécurité sous ces différents aspect comme l'OSINT ou le pentest ainsi que par les intelligence artificielles et leurs progrès fulgurants ces dernières années.
-
-### English
-I am passionate about computers and self-taught in the field since my childhood. I am of this generation who knew the first computers and grew up with them, I spent hours dismantling, reassembling and configuring mine to understand how it worked.
-
-What motivated me today to retrain in this field in addition to the passion that drives me is the thirst for knowledge, curiosity and creation, in the development of frontend and backend applications.
-
-I am also very attracted by cybersecurity in its various aspects such as OSINT or pentest as well as by artificial intelligence and its dazzling progress in recent years.
-
-# Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+## Built with <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <p> </p>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> <!--tailwind-->
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ## Languages
-* HTML
-* CSS
-* Scss
-* JavaScript
+  
+<!-- Liens Projet -->
+## Testez le projet
 
-## Framework
-* React
-* Node.js
-* Express.js
+Github: [https://erik-42.github.io/openclassrooms_projet_7/](https://erik-42.github.io/openclassrooms_projet_7/)
+Project Link: https://erik-42.github.io/openclassrooms_projet_8/
 
-## Base de données
-* MongoDb
-* MySQL
+<!-- LICENSE -->
+## License
 
-## Serveur
-* Apache -->
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+Formation OpenClassRoom developpeur web
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 # Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
@@ -116,6 +103,7 @@ https://erik-42.github.io/
 <!-- basillecorp.dev -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
