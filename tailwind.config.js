@@ -9,6 +9,12 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        sans: [
+          'Roboto',
+          'Helvetica',
+          'Arial',
+          'sans-serif',
+        ],
         orchideel: ['ORCHIDEEL', "cursive"],
         orchideem: ['ORCHIDEEM', "cursive"],
       },
