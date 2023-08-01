@@ -1,0 +1,80 @@
+.button--surtur {
+	padding: 0;
+	background: none;
+	-webkit-clip-path: circle(40% at 50% 50%);
+	clip-path: circle(40% at 50% 50%);
+}
+
+.button--surtur:focus-visible {
+	background: #443ffc;
+}
+
+.textcircle {
+	position: relative;
+	display: block;
+	width: 200px;
+}
+
+.textcircle text {
+	font-size: 32px;
+	text-transform: uppercase;
+	fill: #000;
+}
+
+.textcircle textPath {
+	letter-spacing: 17px; /* Firefox needs this */
+}
+
+.button--surtur:hover .textcircle {
+	animation: rotateIt 7s linear infinite;
+}
+
+.eye {
+	position: absolute;
+	z-index: 2;
+	width: 60px;
+	height: 60px;
+	top: calc(50% - 30px);
+	left: calc(50% - 30px);
+}
+
+.eye__outer,
+.eye__inner,
+.eye__lashes-up,
+.eye__lashes-down {
+	stroke: #000;
+	fill: none;
+	stroke-width: 1.5px;
+}
+
+.eye__lashes-down {
+	opacity: 0;
+}
+
+.button--surtur:hover .eye__lashes-up,
+.button--surtur:hover .eye__inner,
+.button--surtur:hover .eye__iris {
+	animation: blinkHide 2s step-end infinite;
+}
+
+.button--surtur:hover .eye__lashes-down {
+	animation: blinkShow 2s step-end infinite;
+}
+
+@keyframes blinkHide {
+	0% {
+		opacity: 0;
+	}
+	10% {
+		opacity: 1;
+	}
+}
+
+@keyframes blinkShow {
+	0% {
+		opacity: 1;
+	}
+	10% {
+		opacity: 0;
+	}
+}
