@@ -72,7 +72,7 @@ Créez et publiez votre portfolio de développeur
 <!-- Liens Projet -->
 ## Testez le projet
 
-Github: [https://erik-42.github.io/openclassrooms_projet_7/](https://erik-42.github.io/openclassrooms_projet_7/)
+Github: [https://erik-42.github.io/openclassrooms_projet_8/](https://erik-42.github.io/openclassrooms_projet_8/)
 
 Project Link: https://erik-42.github.io/openclassrooms_projet_8/
 
@@ -136,9 +136,4 @@ https://erik-42.github.io/
 [CSS-url]: https://www.w3.org/TR/CSS/#css
 [JavaScript-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-[Node-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[Node-url]: https://nodejs.org/
-[Express-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[Express-url]: http://expressjs.com/
-[MongoDB-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[MongoDB-url]: https://www.mongodb.com/
+
