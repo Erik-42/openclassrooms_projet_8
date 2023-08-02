@@ -1,0 +1,63 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+/* Icons */
+.icon {
+	display: block;
+	width: 2em;
+	height: 2em;
+	margin: 0 auto;
+	fill: currentColor;
+}
+
+.grid__item {
+	position: relative;
+	display: grid;
+	align-items: center;
+	justify-items: center;
+	overflow: hidden;
+	height: 100vw;
+	background: rgb(30 41 59);
+}
+
+.action {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: none;
+	margin: 2rem;
+	color: black;
+	border: 0;
+	padding: 0;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.action:focus {
+	outline: none;
+}
+
+.theme-2 {
+    --color-action: #f3f3f3;
+    --color-button-bg: #f3f3f3;
+	--color-button-text: rgb(217, 119, 6);
+	--button-padding: 1.8rem 4rem;
+	--radius-button: 5px;
+	--border-button: 0;
+}
+
+@media screen and (min-width: 50em) {
+	.grid {
+		display: grid;
+		grid-gap: 22px;
+		grid-template-columns: repeat(2,calc(50vmax - 11px));
+	}
+	.grid__item {
+		height: 50vmax;
+		width: 100%;
+		padding: 1.5rem;
+	}
+
+}
