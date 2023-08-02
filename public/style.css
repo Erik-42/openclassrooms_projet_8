@@ -787,7 +787,7 @@ img,video {
         color:rgb(0 0 0/var(--tw-text-opacity))
     }
 }
-@media screen (max-width: 768px) {
+@media (max-width: 768px) {
     #reseaux{
         width:auto;
         bottom:auto;
