@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
     "watch": "postcss build ./src/input.css -o ./dist/output.css --watch",
-    "prod": "cross-env NODE_ENV=production postcss ./src/input.css -o ./public/style.css"
+    "prod": "postcss ./src/input.css -o ./public/style.css"
   },
   "author": "Erik-42 <mesen.erik@gmail.com>",
   "license": "ISC",
