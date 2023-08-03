@@ -787,11 +787,11 @@ img,video {
         color:rgb(0 0 0/var(--tw-text-opacity))
     }
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     #reseaux{
         width:auto;
         bottom:auto;
         right:0;
         border-radius:5px;
     }
-    }
+    } */
