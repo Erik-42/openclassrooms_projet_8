@@ -90,6 +90,7 @@ Formation OpenClassRoom developpeur web
 # Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 
 
+https://gitlab.com/Erik-42
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 

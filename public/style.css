@@ -856,11 +856,11 @@ video {
 }
 @font-face {
     font-family: "ORCHIDEEL";
-    src: url("/public/assets/fonts/ORCHL___.TTF");
+    src: url("../public/assets/fonts/ORCHL___.TTF");
 }
 @font-face {
     font-family: "ORCHIDEEM";
-    src: url("/public/assets/fonts/ORCHM___.TTF");
+    src: url("../public/assets/fonts/ORCHM___.TTF");
 }
 .hover\:scale-125:hover {
   --tw-scale-x: 1.25;
