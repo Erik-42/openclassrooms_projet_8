@@ -4,7 +4,7 @@ const lienDelai = document.querySelectorAll(".lienDelai");
 function onClickHandler(event) {
     event.preventDefault();
 
-    const delai = 2500;
+    const delai = 2100;
 
     // Redirige vers le lien après le délai
     setTimeout(function () {

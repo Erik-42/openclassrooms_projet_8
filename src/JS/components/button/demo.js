@@ -1,4 +1,4 @@
-(function() {
+(function () {
 
     const arrOpts = [
         {},
@@ -8,8 +8,8 @@
             size: 6,
             particlesAmountCoefficient: 4,
             oscillationCoefficient: 2,
-            color: function() {
-                return Math.random() < 0.5 ? '#000000' : '#ffffff'; 
+            color: function () {
+                return Math.random() < 0.5 ? '#000000' : '#ffffff';
             }
         },
         {
@@ -47,7 +47,7 @@
             size: 15,
             color: '#e87084',
             duration: 600,
-            easing: [0.2,1,0.7,1],
+            easing: [0.2, 1, 0.7, 1],
             oscillationCoefficient: 5,
             particlesAmountCoefficient: 2,
             direction: 'right'
@@ -99,37 +99,37 @@
             oscillationCoefficient: 1
         }
     ];
-    
-    const items = document.querySelectorAll('.grid__item');
+
+    const items = document.querySelectorAll('.particleButton');
     items.forEach((el, pos) => {
         const bttn = el.querySelector('button.particles-button');
         const bttnBack = el.querySelector('button.action');
-        
+
         let particlesOpts = arrOpts[pos];
         particlesOpts.complete = () => {
-            if ( !buttonVisible ) {
+            if (!buttonVisible) {
                 anime.remove(bttnBack);
                 anime({
                     targets: bttnBack,
                     duration: 300,
                     easing: 'easeOutQuint',
                     opacity: 1,
-                    scale: [0,1]
+                    scale: [0, 0.2]
                 });
                 bttnBack.style.pointerEvents = 'auto';
             }
         };
         const particles = new Particles(bttn, particlesOpts);
-        
+
         let buttonVisible = true;
         bttn.addEventListener('click', () => {
-            if ( !particles.isAnimating() && buttonVisible ) {
+            if (!particles.isAnimating() && buttonVisible) {
                 particles.disintegrate();
                 buttonVisible = !buttonVisible;
             }
         });
         bttnBack.addEventListener('click', () => {
-            if ( !particles.isAnimating() && !buttonVisible ) {
+            if (!particles.isAnimating() && !buttonVisible) {
                 anime.remove(bttnBack);
                 anime({
                     targets: bttnBack,
