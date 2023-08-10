@@ -13,16 +13,19 @@
 }
 
 .action {
-	position: absolute;
+	/* position: absolute; */
 	top: 0;
 	right: 0;
 	background: none;
-	margin: 2rem;
+	/* margin: 2rem; */
 	color: black;
 	border: 0;
 	padding: 0;
 	opacity: 0;
 	pointer-events: none;
+	display: flex;
+	align-items: center;
+	z-index: 1;
 }
 
 .action:focus {
@@ -36,21 +39,28 @@
 	--button-padding: 1.8rem 4rem;
 	--radius-button: 8px;
 	--border-button: 0;
-	position: relative;
-	display: grid;
+	position: absolute;
+	display: flex;
 	align-items: center;
 	justify-items: center;
+	justify-content: center;
 	overflow: hidden;
-	height: 100vw;
+	height: 100%;
+	width: 100%;
 	background: rgb(30 41 59);
 
 }
 
 @media screen and (min-width: 768px) {
 	.particleButton {
-		height: 50vmax;
+		height: 100%;
 		width: 100%;
-		padding: 1.5rem;
+		/* padding: 0.5rem; */
+		position: absolute;
+	display: flex;
+	align-items: center;
+	justify-items: center;
+	justify-content: center;
 	}
 
 }
