@@ -553,6 +553,9 @@ video {
 .mb-2 {
   margin-bottom: 0.5rem;
 }
+.mb-9 {
+  margin-bottom: 2.25rem;
+}
 .ml-16 {
   margin-left: 4rem;
 }
@@ -961,8 +964,8 @@ video {
     margin-top: 0px;
   }
 
-  .md\:mt-48 {
-    margin-top: 12rem;
+  .md\:mt-40 {
+    margin-top: 10rem;
   }
 
   .md\:mt-72 {
