@@ -74,7 +74,7 @@ Créez et publiez votre portfolio de développeur
 
 Github: [https://erik-42.github.io/openclassrooms_projet_8/](https://erik-42.github.io/openclassrooms_projet_8/)
 
-Project Link: https://erik-42.github.io/openclassrooms_projet_8/
+Project Link: http://51.79.73.228/
 
 <!-- LICENSE -->
 ## License
