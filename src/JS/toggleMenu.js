@@ -5,12 +5,12 @@ const toggledMenu = document.querySelector("#toggled-menu");
 // const menuLinks = document.querySelectorAll("#nav-bar ul a");
 const menuLinks = document.querySelector("#competencesLink");
 const projetsLink = document.querySelector("#projetsLink");
+const formationsLink = document.querySelector("#formationsLink");
 
 toggleMenuBtn.addEventListener("click", toggleNav);
-// menuLinks.foreach(menuLink => {
-//     menuLink.addEventListener("click", toggleNav);
-// })
+
 projetsLink.addEventListener("click", toggleNav);
+formationsLink.addEventListener("click", toggleNav);
 menuLinks.addEventListener("click", toggleNav);
 
 function toggleNav() {
@@ -35,6 +35,7 @@ const toggledAside = document.querySelector("#toggled-aside");
 toggleAsideBtn.addEventListener("click", toggleAside);
 competencesLink.addEventListener("click", toggleAside);
 projetsLink.addEventListener("click", toggleAside);
+formationsLink.addEventListener("click", toggleAside);
 
 function toggleAside() {
     toggledAside.classList.toggle("-translate-x-full")
