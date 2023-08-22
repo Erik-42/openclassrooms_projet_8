@@ -991,12 +991,12 @@ video {
     margin-top: 5rem;
   }
 
-  .md\:mt-56 {
-    margin-top: 14rem;
-  }
-
   .md\:mt-64 {
     margin-top: 16rem;
+  }
+
+  .md\:mt-8 {
+    margin-top: 2rem;
   }
 
   .md\:mt-9 {
