@@ -87,11 +87,12 @@ Formation OpenClassRoom developpeur web
 
 
 <!-- CONTACT -->
-# Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+## Contact <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 
 
 [![Github Badge][Github Badge-shield]][Github Badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 https://gitlab.com/Erik-42
 
 mesen.erik@gmail.com
